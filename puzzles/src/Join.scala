@@ -12,14 +12,14 @@ object Join extends App{
 
     // use the list intersect
     val keys = leftMap.keys.toList.intersect(rightMap.keySet.toList).toSet
-    leftMap.filterKeys(keys) ++ rightMap.filterKeys(keys)
+    leftMap.view.filterKeys(keys).toMap ++ rightMap.view.filterKeys(keys).toMap
   }
 
   def crossJoin(leftMap:Map[Int, Int], rightMap:Map[Int,Int]) = {
 
     // just combine all the keys operation so is distinct
     val keys = leftMap.keySet ++ rightMap.keySet
-    leftMap.filterKeys(keys) ++ rightMap.filterKeys(keys)
+    leftMap.view.filterKeys(keys).toMap ++ rightMap.view.filterKeys(keys).toMap
   }
 
   val joined = join(left, right)

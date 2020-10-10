@@ -7,5 +7,3 @@ object Intersect extends App {
   print(join.mkString(", "))
 
 }
-
-
