@@ -1,0 +1,19 @@
+2020.11.29 07:51:49 INFO  Started: Metals version 0.9.7 in workspace '/Users/shaunryan/code/ScalaCompleteReference' for client vscode.
+2020.11.29 07:51:50 INFO  time: initialize in 0.41s
+2020.11.29 07:51:50 WARN  Build server is not auto-connectable.
+2020.11.29 07:51:50 WARN  no build tool detected in workspace '/Users/shaunryan/code/ScalaCompleteReference'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.29 07:51:50 WARN  no build target for: /Users/shaunryan/code/ScalaCompleteReference/sibtyes.standard/src/com/sibytes/std/IOPrintWriter.scala
+2020.11.29 07:51:52 INFO  no build target: using presentation compiler with only scala-library
+2020.11.29 09:29:13 INFO  shutting down Metals
+2020.11.29 11:50:55 INFO  Started: Metals version 0.9.7 in workspace '/Users/shaunryan/code/ScalaCompleteReference' for client vscode.
+2020.11.29 11:50:55 INFO  time: initialize in 0.43s
+2020.11.29 11:50:56 WARN  Build server is not auto-connectable.
+2020.11.29 11:50:56 WARN  no build tool detected in workspace '/Users/shaunryan/code/ScalaCompleteReference'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.29 11:50:56 WARN  no build target for: /Users/shaunryan/code/ScalaCompleteReference/sibtyes.standard/src/com/sibytes/std/IOPrintWriter.scala
+2020.11.29 11:50:57 INFO  no build target: using presentation compiler with only scala-library
+2020.11.29 11:51:21 INFO  shutting down Metals
+[0m2021.07.24 17:56:53 INFO  Started: Metals version 0.10.5 in workspace '/Users/shaunryan/code/ScalaCompleteReference' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.24 17:56:54 INFO  time: initialize in 1.49s[0m
+[0m2021.07.24 17:56:54 WARN  resetting database: /Users/shaunryan/code/ScalaCompleteReference/.metals/metals.h2.db[0m
+[0m2021.07.24 17:56:54 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.24 17:56:54 WARN  no build tool detected in workspace '/Users/shaunryan/code/ScalaCompleteReference'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
